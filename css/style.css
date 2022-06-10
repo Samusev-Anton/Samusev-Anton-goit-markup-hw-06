@@ -404,7 +404,7 @@ ul {
 }
 
 .form-textarea::placeholder {
-  /* color: rgba(117, 117, 117, 0.5); */
+  /* color: rgba(117, 117, 117, 0.5); change*/
   color: red;
 }
 
