@@ -884,6 +884,7 @@ ul {
 .footer-label {
   z-index: 0;
 }
+/* задолбала эта хрень, не сохраняет нифига */
 .footer-input {
   width: 358px;
   padding: 15px 16px;
